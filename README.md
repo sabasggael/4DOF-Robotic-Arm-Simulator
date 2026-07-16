@@ -13,8 +13,7 @@ Python-based simulator for modeling and visualizing a 4-DOF robotic arm, featuri
 - **Data persistence** in JSON and CSV: save/load single configurations or full movement sequences.
 - **Interactive console menu** with demos: rotation planes, collision-aware interpolation, circular trajectories, kinematics comparison, and system self-tests.
 ## Screenshots
- 
-<!-- Agrega tus capturas aquí, ver sección "Cómo agregar capturas" en el README de desarrollo -->
+
  
 | Menú principal | Visualización 3D |
 |---|---|
